@@ -1,4 +1,4 @@
-# Four-function-project
+# Four-Univeristy-Assignment
 Four function project assignment. 
 First function - If a given number is ONLY divisible by 3 then it prints out "Bingo!" else it prints out "Fooey!".
 
